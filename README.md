@@ -5,4 +5,4 @@
 
 Plataforma: Prolog Online
 
-Video de justificación: https://drive.google.com/file/d/1qgc1svb9EYHzA8svw-fYFUAhnsN2MMA2/view?usp=drive_link 
+Video de justificación: https://drive.google.com/file/d/19FcqkxRk2wJ_xqQECf7YhJe86fmSA5zu/view?usp=sharing
